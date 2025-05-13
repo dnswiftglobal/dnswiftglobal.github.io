@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dnswiftglobal.github.io/sitemap.xml
